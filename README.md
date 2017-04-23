@@ -8,7 +8,6 @@ Sophomore curriculum design in Java.
 
 ## Demo
 
-<img src="http://o7gy5l0ax.bkt.clouddn.com/javaw_2017-04-23_15-14-57.jpg" width = "546" height = "307" alt="0" />
 <img src="http://o7gy5l0ax.bkt.clouddn.com/QQ%E6%88%AA%E5%9C%9620160623104950.png" width = "546" height = "307" alt="1" />
 <img src="http://o7gy5l0ax.bkt.clouddn.com/QQ%E6%88%AA%E5%9C%9620160623104941.png" width = "546" height = "307" alt="2" />
 <img src="http://o7gy5l0ax.bkt.clouddn.com/QQ%E6%88%AA%E5%9C%9620160623104822.png" width = "546" height = "307" alt="3" />
