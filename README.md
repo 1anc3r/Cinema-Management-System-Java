@@ -1,6 +1,6 @@
 # Cinema-Management-System-Java
 ## 简介
-大二下期 JavaGUI 课程设计——影院管理系统 Java GUI 版.
+大二下期 Java GUI 课程设计——影院管理系统 Java GUI 版.
 
 ## 技术
 1. Java Swing.
